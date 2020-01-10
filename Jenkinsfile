@@ -3,22 +3,12 @@ pipeline{
     stages{
         stage('Enviroment'){
             steps{
-                    echo "Selected environment:-> ${ENV}";
-                }
-            }
-            stage('Application'){
-                steps{
-                    echo "Selected Application:-> ${APP}";
-                }
-            }
-            stage('ImageTAG'){
-                steps{
-                    echo "Selected IMAGE_TAG:-> ${IMAGE_TAG}";
+                    echo "Running from jenkins";
                 }
             }
             
-            stage('Deploy'){
-                steps{
+         stage('Deploy'){
+            steps{
                     echo "Pass!!";
                 }
             }
