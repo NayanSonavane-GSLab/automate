@@ -4,7 +4,7 @@ pipeline{
         stage('Enviroment'){
             steps{
                     echo "Running from jenkins";
-                    echo "Running from jenkins from master branch";
+                    echo "Running from jenkins from master branch111";
                     echo "Running from jenkins from master branch finally";
                     echo "Checking changes from master brach";
                     
