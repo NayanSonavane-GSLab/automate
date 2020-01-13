@@ -3,10 +3,9 @@ pipeline{
     stages{
         stage('Enviroment'){
             steps{
-                    echo "Running from jenkins";
+                    echo "Running from jenkins from test2 branch";
                     echo "Running from jenkins from master branch";
-                    echo "Running from jenkins from master branch finally";
-                    
+                                        
                 }
             }
             
