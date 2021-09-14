@@ -20,9 +20,9 @@
 			"recurrence": {
 				"frequency": "Minute",
 				"interval": 2,
-				"startTime": "2021-09-14T14:47:00Z",
-				"endTime": "2021-09-14T15:00:00Z",
-				"timeZone": "UTC"
+				"startTime": "2021-09-14T14:47:00",
+				"endTime": "2021-09-14T15:00:00",
+				"timeZone": "India Standard Time"
 			}
 		}
 	}
