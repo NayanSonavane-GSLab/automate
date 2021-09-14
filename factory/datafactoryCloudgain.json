@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryCloudgain",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3ebf9c85-7273-435b-9720-1352f0e71b5b",
+		"tenantId": "336631b1-9a87-4c79-97cf-078f2a890c6a"
+	}
+}
